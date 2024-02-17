@@ -23,8 +23,8 @@
 <table>
   <tr>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
+      <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="200"/></td>
+      <td><img src="https://www.chartjs.org/media/logo-title.svg" width="200"/></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
@@ -59,10 +59,6 @@
     <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="200"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="200"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="200"/></td>
-    </tr>
-    <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="200"/></td>
-    <td><img src="https://www.chartjs.org/media/logo-title.svg" width="200"/></td>
     </tr>
 </table>
 
