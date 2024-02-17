@@ -25,8 +25,8 @@
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="200"/></td>
       <td><img src="https://www.chartjs.org/media/logo-title.svg" width="200"/></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
+      <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="200"/></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
@@ -56,9 +56,6 @@
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="200"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="200"/></td>
     </tr>
 </table>
 
